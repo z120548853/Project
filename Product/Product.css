@@ -1,0 +1,337 @@
+#banner{
+    height: 400px;
+    width: 100%;
+    
+}
+
+
+#rightinfo{
+  
+}
+#rightinfo-tickettool{
+    border-radius: 3%;
+}
+
+@media screen and(min-width: 1200px) {
+ 
+}
+a{
+    text-decoration:none
+}
+p{
+    margin-bottom: 0;
+}
+h5{
+    font-size: 16px;
+}
+h4{
+ color:rgb(168, 24, 80);
+}
+h3{
+    font-size: 14px;
+}
+h2{
+    font-size: 16px;
+}
+h1{
+    font-size: 18px;
+}
+.container{
+    margin-top: 32px;
+}
+#planner-detail-icon{
+    margin-right: 16px;
+    font-size: 64px;
+}
+#planner-detail-content{
+    display: flex;
+}
+#planner-detail-content-name  {
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+
+#planner-detail-content-name-follow  {
+    border: 1px black solid ;
+    
+    font-size: 14px;
+
+    padding-left: 4px;
+    padding-right: 4px;
+}
+#planner-detail-content-popular{
+    margin-right:3px;
+}
+#planner-detail-content-like{
+    margin-right:3px;
+    margin-left: 3px;
+}
+
+
+#planner-supplier{
+    margin-top: 30px;
+}
+
+#planner-supplier-icon{
+    
+    font-size: 32px;
+}
+#planner-supplier-name{
+    margin: 0;
+}
+
+#planner-supplier-trip{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+#planner-action{
+    padding-bottom: 32px;
+    height: 57px;
+}
+#planner-aciton-like{
+    border: 1px black solid;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#planner-aciton-share a,#planner-aciton-share button{
+    color:white;
+    
+}
+
+#planner-action-share a,#planner-action-share button{
+    
+}
+
+.share a,.share button{
+    border-radius: 2px;
+    margin-right: 5px;
+    font-size: 14px;
+}
+
+#planner-aciton-share-fb{
+    
+    background-color: #4267b2;
+}
+#planner-aciton-share-line{
+    background-color: #00b900;
+}
+#planner-aciton-share button{
+    background-color: #666 ;
+    border: 0px;
+}
+
+.fa-heart{
+    font-size: 14px;
+    width: 16px;
+    height: 16px;
+    margin-right: 4px;
+}
+#planner-action p{
+    font-size: 14px;
+}
+
+#plan{
+    margin-top: 48px;
+}
+.time{
+    border-right:1px black solid;
+    padding-right: 8px;
+    margin-right: 8px;
+}
+#plan img{
+    width: 100%;
+    padding-left:32px;
+}
+#plan-day1{
+    color: white;
+    background-color: #198754;
+    border-radius: 50px ;
+    width: 67px;
+    height: 26px;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+#plan-location-detail{
+    
+    margin-top: 16px;
+    margin-bottom: 8px;
+    align-items: center;
+}
+#plan-location-detail-text{
+    padding-left: 8px;
+
+}
+
+
+#plan-location-introduce{
+    padding-left: 32px;
+}
+#plan-location-detail-icon{
+    font-size: 32px;
+    
+}
+
+#plan-detail{
+    padding-left: 32px;
+    margin-top: 16px;
+}
+#plan-detail-title-icon{
+    margin-right: 3px;
+}
+#plan-detail-content{
+    margin-bottom: 25px;
+}
+
+
+#ticket-title{
+    margin-bottom: 32px;
+}
+#ticket-detail{
+    padding-bottom: 24px;
+}
+#ticket-count{
+    align-items: center;
+}
+#ticket-date{
+    margin-bottom: 16px;
+}
+
+#ticket-count-option{
+    align-items: center;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+}
+#ticket-count-option .d-flex{
+    align-items: center;
+}
+
+#ticket-date select{
+    margin-top: 8px ;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 24px;
+    padding-bottom: 15px;
+}
+
+select{
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 24px;
+    padding-bottom: 15px;
+}
+
+#ticket-count-option{
+    padding-bottom: 32px;
+}
+
+#ticket-count-price{
+    align-items: center;
+    padding-top: 15px;
+}
+
+#ticket-count-price .btn{
+    height: 40px;
+}
+#comment{
+    margin-top: 32px;
+}
+#comment-input {
+  align-items: center;
+}
+
+#comment-input input{
+    padding-left: 44px;
+    padding-right: 100px;
+    height: 40px;
+}
+#comment button{
+    height: 32px;
+    border-radius: 50px;
+    margin-right: -5px;
+}
+
+
+
+
+#rightinfo{
+    padding: 16px;
+}
+
+#rightinfo button{
+    width: auto;
+}
+#rightinfo-link a{
+    color: white;
+    background-color: #198754;;
+    width: 100%;
+    text-align: center;
+}
+#rightinfo-link a{
+    margin-top: 8px;
+    padding-left: 6px;
+    padding-right: 6px;
+    font-size: 16px;
+    color: white;
+    background-color: #198754;;
+    width: 100%;
+    text-align: center;
+    border-radius: 3px;
+}
+
+
+
+#detail{
+    background-color: rgb(233, 232, 232);
+}
+#comment{
+    
+}
+#comment input{
+    outline: none;
+    border:0;
+    background-color: unset;
+}
+form{
+    border-radius: 50px;
+    background-color: rgb(233, 232, 232); ;
+}
+
+
+
+
+.f-img{
+    width: 100%;
+}
+
+.f-head{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.follow >a{
+    color:#f47;
+}
+.f-mermory{
+    border-bottom: 1px solid #252222;
+    margin-bottom: 10px ;
+}
+.f-like{
+    font-size: 20px;
+}
+
+.e-title{
+    border-bottom: 1px solid #252222;
+    margin-bottom: 10px ;
+}
+.expert-pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+a >img{
+    width: 100%;
+}
