@@ -21,6 +21,10 @@ a{
 p{
     margin-bottom: 0;
 }
+#plan p{
+    
+    padding-left: 28px;
+}
 h5{
     font-size: 16px;
 }
@@ -31,10 +35,10 @@ h3{
     font-size: 14px;
 }
 h2{
-    font-size: 16px;
+    font-size: 18px;
 }
 h1{
-    font-size: 18px;
+    font-size: 32px;
 }
 .container{
     margin-top: 32px;
@@ -47,17 +51,23 @@ h1{
     display: flex;
 }
 #planner-detail-content-name  {
+    margin:0
+}
+.name{
     margin-top: 6px;
-    margin-bottom: 16px;
+    margin-bottom: 10px;
 }
 
 #planner-detail-content-name-follow  {
     border: 1px black solid ;
-    
     font-size: 14px;
-
     padding-left: 4px;
     padding-right: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    height: 32px;
+    margin-left: 8px;
+    margin-bottom: 0;
 }
 #planner-detail-content-popular{
     margin-right:3px;
@@ -100,9 +110,7 @@ h1{
     
 }
 
-#planner-action-share a,#planner-action-share button{
-    
-}
+
 
 .share a,.share button{
     border-radius: 2px;
@@ -144,7 +152,7 @@ h1{
     width: 100%;
     padding-left:32px;
 }
-#plan-day1{
+#plan-day{
     color: white;
     background-color: #198754;
     border-radius: 50px ;
@@ -186,6 +194,9 @@ h1{
     margin-bottom: 25px;
 }
 
+#ticket{
+    margin-top: 32px;
+}
 
 #ticket-title{
     margin-bottom: 32px;
@@ -255,25 +266,35 @@ select{
 }
 
 
-
-
 #rightinfo{
     padding: 16px;
 }
-
-#rightinfo button{
-    width: auto;
+.rightinfo-fix{
+    height: 82px;
 }
-#rightinfo-link a{
+.rightinfo-fix button{
+    width: 180px;
+    background-color: white;
+    border: 0;
+}
+.rightinfo-fix a{
+    margin-top: 8px;
+    font-size: 16px;
     color: white;
     background-color: #198754;;
-    width: 100%;
+    width: 180px;
     text-align: center;
+    border-radius: 3px;
 }
+
+#rightinfo button{
+    width: 100%;
+    background-color: white;
+    border: 0;
+}
+
 #rightinfo-link a{
     margin-top: 8px;
-    padding-left: 6px;
-    padding-right: 6px;
     font-size: 16px;
     color: white;
     background-color: #198754;;
@@ -299,6 +320,10 @@ form{
     border-radius: 50px;
     background-color: rgb(233, 232, 232); ;
 }
+.fixed-bottom{
+    
+}
+
 
 
 
