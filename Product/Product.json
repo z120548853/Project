@@ -34,28 +34,28 @@
                     "id": 2,
                     "name": "桶盤嶼",
                     "staytime": "30分",
-                    "image":"./img/rock.jpg" ,
+                    "image":"../../Assets/images/Product/rock.jpg" ,
                     "description":null
                 },
                 {
                     "id": 3,
                     "name": "七美嶼",
                     "staytime": "2小時40分",
-                    "image": "./img/taiwan.jpg",
+                    "image": "../../Assets/images/Product/taiwan.jpg",
                     "description":null
                 },
                 {
                     "id": 4,
                     "name": "雙心石滬",
                     "staytime": "20分",
-                    "image": "./img/heartrock.jpg",
+                    "image": "../../Assets/images/Product/heartrock.jpg",
                     "description":null
                 },
                 {
                     "id": 5,
                     "name": "北岸海蝕洞(灶籠,藍洞)",
                     "staytime": "20分",
-                    "image": "./img/bluehole.jpg",
+                    "image": "../../Assets/images/Product/bluehole.jpg",
                     "description":null
                 },
                 {
